@@ -24,6 +24,12 @@
       "type": "integer",
       "required": true
     },
+    "dose_alt": {
+      "type": "string"
+    },
+    "price_alt": {
+      "type": "integer"
+    },
     "currency": {
       "type": "string",
       "default": "₴"
