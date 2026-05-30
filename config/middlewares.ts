@@ -24,6 +24,8 @@ const config: Core.Config.Middlewares = [
         'http://localhost:1337',
         'http://localhost:3000',
         'https://biopatid-landing.vercel.app',
+        'https://bio-contour.com',
+        'https://www.bio-contour.com',
       ],
       methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'HEAD', 'OPTIONS'],
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
